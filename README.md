@@ -1,8 +1,10 @@
 # Castika StreamLevel
 
-![Meters on Companion buttons: one meter spanning four buttons, and single buttons showing a normal level, clipping, the program mix, a muted source, a source with a filter switched on, a source with no reading, and buttons watching one side of the fader only](docs/meters.png)
+![Castika StreamLevel: audio levels on Bitfocus Companion buttons, alive, not clipping, not muted, not faded down, and on the track the stream sends](docs/social-preview.png)
 
 Display OBS Studio audio levels directly on Bitfocus Companion buttons. One glance tells a broadcaster that program audio is alive, not clipping, unmuted, not faded down, and routed to the track the stream sends. The last three look perfectly healthy in the OBS mixer and reach nobody watching.
+
+![Meters on Companion buttons: one meter spanning four buttons, and single buttons showing a normal level, clipping, the program mix, a muted source, a source with a filter switched on, a source with no reading, and buttons watching one side of the fader only](docs/meters.png)
 
 ## Requirements
 

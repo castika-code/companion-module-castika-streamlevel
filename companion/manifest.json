@@ -5,7 +5,7 @@
 	"name": "Castika StreamLevel",
 	"shortname": "Castika_StreamLevel",
 	"description": "Draws OBS audio levels on your buttons, so one glance tells you the sound going out is alive and not clipping.",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"license": "MIT",
 	"repository": "git+https://github.com/castika-code/companion-module-castika-streamlevel.git",
 	"bugs": "https://github.com/castika-code/companion-module-castika-streamlevel/issues",
